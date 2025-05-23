@@ -319,7 +319,7 @@ height: 90%;
 }
 
 /* Responsividade: Celulares */
-@media (max-width: 600px) {
+@media (max-width: 428px) {
   body {
     font-size: 14px;
   }
